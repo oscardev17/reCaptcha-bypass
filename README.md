@@ -2,12 +2,9 @@
 
 This project is made to automatically solve captchas made by Google (reCaptcha).
 
-## Video Demo
-
-[![Watch the demo]](https://youtu.be/bLnTGIenVTc)
-
 ## Features
 
+[![Watch the demo]](https://youtu.be/bLnTGIenVTc)
 - `Image detection`
 - `Human movement`
 - `Customizable`
